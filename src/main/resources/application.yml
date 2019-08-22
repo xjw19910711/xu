@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+user:
+ username: list
+ age: 20
+ girls:
+  - rose
+  - jeck
+  - tom
+logging:
+  level:
+   cn.itcast.controller: warn
+
+
